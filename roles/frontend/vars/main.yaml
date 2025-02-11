@@ -1,0 +1,4 @@
+BACKEND_HOST: backend.ulasala.online
+APP_LOCAION: /usr/share/nginx/html
+COMPONENT: frontend
+
